@@ -2,7 +2,9 @@
 
 This repository hosts the MTC-UAV dataset associated with our work:
 
-[Hao Lu](https://sites.google.com/site/poppinace/)<sup>1</sup>, Liang Liu, Ya-Nan Li<sup>2</sup>, Xiao-Ming Zhao<sup>3</sup>, Xi-Qing Wang<sup>3</sup>, Zhi-Guo Cao<sup>1</sup>
+[Hao Lu](https://sites.google.com/site/poppinace/)<sup>1,&dagger;</sup>, Liang Liu<sup>1,&dagger;</sup>, Ya-Nan Li<sup>2</sup>, Xiao-Ming Zhao<sup>3</sup>, Xi-Qing Wang<sup>3</sup>, Zhi-Guo Cao<sup>1</sup>
+
+<sup>&dagger;</sup> equal contribution
 
 <sup>1</sup>School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, China
 
