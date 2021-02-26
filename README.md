@@ -1,5 +1,9 @@
 # Maize Tassels Counting from Unmanned Aerial Vehicle (MTC-UAV)
 
+<p align="left">
+  <img src="visualization.png" width="700"/>
+</p>
+
 This repository hosts the MTC-UAV dataset associated with our work:
 
 **TasselNetV3: Explainable Plant Counting With Guided Upsampling and Background Suppression**
@@ -19,6 +23,10 @@ IEEE Transactions on Geoscience and Remote Sensing, 2021
 - 70,870 manually annotated instances
 - 306 images with 5472x3648 image resolution
 - 12.5-meter-height nadir imaging view
+
+<p align="left">
+  <img src="mtc-uav.png" width="700"/>
+</p>
 
 ## Download
 The MTC-UAV dataset can be downloaded from: 
