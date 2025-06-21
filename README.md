@@ -18,6 +18,9 @@ This repository hosts the MTC-UAV dataset associated with our work:
 
 IEEE Transactions on Geoscience and Remote Sensing, 2021
 
+## Updates
+- 2025.6.6: Code for TasselNetV3 has been released [here](https://github.com/poppinace/tasselnetv3).
+
 ## Highlights
 - over 400 maize cultivars
 - 70,870 manually annotated instances
